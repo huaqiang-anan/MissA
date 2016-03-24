@@ -1,0 +1,8 @@
+March 24, 2016
+今天无意间学习了一下android程序反编译。
+android开发工具：android studio；eclipse
+反编译方法：反编译工具反编译；cmd命令反编译
+效果：1.反编译工具可以反编译eclipse的apk（未打包的一定可以被反编译，打包的暂时为具体测试），android studio开发的apk无论打包和未打包都不能被反编译；
+2.cmd命令可以反编译android studio开发的apk（打包和未打包均可被反编译），也可以反编译eclipse开发的apk
+
+下次会将反编译工具反编译方法以及工具分享给大家，并且将cmd命令反编译的方法做一个专题进行分享。
